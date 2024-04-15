@@ -1,0 +1,367 @@
+{
+    "ID": "1",
+    "Pre-hash": "00000000000000000000000000000000",
+    "Hash": "f3a46de58471da442e168234f32dd07e",
+    "utype": "MC",
+    "Date/Time": "16-03-2024,07:22:42"
+}{
+    "ID": "2",
+    "Pre-hash": "f3a46de58471da442e168234f32dd07e",
+    "Hash": "0ab1f6b5ba3c2c209ccefa1783268a97",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,07:32:47"
+}{
+    "ID": "3",
+    "Pre-hash": "7b959c6decfb32e687613c75b1250471",
+    "Hash": "ec930f0bb4add0ddb83a68913d30baf9",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,07:56:20"
+}{
+    "ID": "4",
+    "Pre-hash": "ec930f0bb4add0ddb83a68913d30baf9",
+    "Hash": "8fa5498478028fd704cae56c6dc94eb8",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,08:10:02"
+}{
+    "ID": "5",
+    "Pre-hash": "8fa5498478028fd704cae56c6dc94eb8",
+    "Hash": "c50bb49e8fe5658b316217c44c63a2e7",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,08:24:20"
+}{
+    "ID": "6",
+    "Pre-hash": "c50bb49e8fe5658b316217c44c63a2e7",
+    "Hash": "af53b43c69e8b45d8fe28e33bac3b983",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,08:31:50"
+}{
+    "ID": "7",
+    "Pre-hash": "af53b43c69e8b45d8fe28e33bac3b983",
+    "Hash": "182ebf6c610e330be317dd6c7e12ed73",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,08:33:02"
+}{
+    "ID": "8",
+    "Pre-hash": "182ebf6c610e330be317dd6c7e12ed73",
+    "Hash": "783a02f030a1305bf941ba8bc9da73db",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,08:42:53"
+}{
+    "ID": "9",
+    "Pre-hash": "783a02f030a1305bf941ba8bc9da73db",
+    "Hash": "e99a941b42376ba6f2ddfd3e6905da98",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,08:43:57"
+}{
+    "ID": "10",
+    "Pre-hash": "e99a941b42376ba6f2ddfd3e6905da98",
+    "Hash": "6371af09d6441e550ec9c7a0e37de970",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,09:08:19"
+}{
+    "ID": "11",
+    "Pre-hash": "6371af09d6441e550ec9c7a0e37de970",
+    "Hash": "d37abf7c630e825b6ea78d493e29b1f3",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,09:23:40"
+}{
+    "ID": "12",
+    "Pre-hash": "d37abf7c630e825b6ea78d493e29b1f3",
+    "Hash": "7841e0a322cc8ea44bd058e547aa75d1",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,09:29:19"
+}{
+    "ID": "13",
+    "Pre-hash": "7841e0a322cc8ea44bd058e547aa75d1",
+    "Hash": "c50bb49e8fe5658b316217c44c63a2e7",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,09:29:46"
+}{
+    "ID": "14",
+    "Pre-hash": "c50bb49e8fe5658b316217c44c63a2e7",
+    "Hash": "783a02f030a1305bf941ba8bc9da73db",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,09:30:35"
+}{
+    "ID": "15",
+    "Pre-hash": "783a02f030a1305bf941ba8bc9da73db",
+    "Hash": "e99a941b42376ba6f2ddfd3e6905da98",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,09:32:13"
+}{
+    "ID": "16",
+    "Pre-hash": "e99a941b42376ba6f2ddfd3e6905da98",
+    "Hash": "8c46e4fe49095638c9e01a4d088c4f95",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,09:37:43"
+}{
+    "ID": "17",
+    "Pre-hash": "8c46e4fe49095638c9e01a4d088c4f95",
+    "Hash": "e99a941b42376ba6f2ddfd3e6905da98",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,10:04:01"
+}{
+    "ID": "18",
+    "Pre-hash": "e99a941b42376ba6f2ddfd3e6905da98",
+    "Hash": "1cd55213f85a2b7d50467c893e4dfad5",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,10:34:32"
+}{
+    "ID": "19",
+    "Pre-hash": "1cd55213f85a2b7d50467c893e4dfad5",
+    "Hash": "54e17f0e518a4da33483f5b0b5841da2",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,10:37:14"
+}{
+    "ID": "20",
+    "Pre-hash": "54e17f0e518a4da33483f5b0b5841da2",
+    "Hash": "4537acdaa6e4707c31be14c524eb7860",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,10:39:41"
+}{
+    "ID": "21",
+    "Pre-hash": "4537acdaa6e4707c31be14c524eb7860",
+    "Hash": "54e17f0e518a4da33483f5b0b5841da2",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,10:42:11"
+}{
+    "ID": "22",
+    "Pre-hash": "54e17f0e518a4da33483f5b0b5841da2",
+    "Hash": "678c77a30f61ead143956f44d5332a38",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,10:42:40"
+}{
+    "ID": "23",
+    "Pre-hash": "678c77a30f61ead143956f44d5332a38",
+    "Hash": "678c77a30f61ead143956f44d5332a38",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,10:45:45"
+}{
+    "ID": "24",
+    "Pre-hash": "678c77a30f61ead143956f44d5332a38",
+    "Hash": "245c20d195b97cd3d93bb9b8b07568fd",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,10:50:52"
+}{
+    "ID": "25",
+    "Pre-hash": "245c20d195b97cd3d93bb9b8b07568fd",
+    "Hash": "c816bb1b3b8f11b4e35ea1d8d14e0b29",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,10:51:03"
+}{
+    "ID": "26",
+    "Pre-hash": "c816bb1b3b8f11b4e35ea1d8d14e0b29",
+    "Hash": "d6e9530ba3b9257477250c9079f705e6",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,11:53:57"
+}{
+    "ID": "27",
+    "Pre-hash": "d6e9530ba3b9257477250c9079f705e6",
+    "Hash": "6674d3b610d39b46abf9ea26d7990306",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,13:11:52"
+}{
+    "ID": "28",
+    "Pre-hash": "6674d3b610d39b46abf9ea26d7990306",
+    "Hash": "783f9e9164a34093964dc4823e95b283",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,13:13:08"
+}{
+    "ID": "29",
+    "Pre-hash": "783f9e9164a34093964dc4823e95b283",
+    "Hash": "2bcb7638f843cdd15ccbf201e272b95b",
+    "utype:": "PC",
+    "Date/Time": "16-03-2024,14:31:37"
+}{
+    "ID": "30",
+    "Pre-hash": "2bcb7638f843cdd15ccbf201e272b95b",
+    "Hash": "261bbb094140ae7787a7930ceb190c97",
+    "utype:": "MC",
+    "Date/Time": "18-03-2024,22:26:55"
+}{
+    "ID": "31",
+    "Pre-hash": "261bbb094140ae7787a7930ceb190c97",
+    "Hash": "58c62ea4495eb8aaf96ec62854901969",
+    "utype:": "PC",
+    "Date/Time": "18-03-2024,22:28:38"
+}{
+    "ID": "32",
+    "Pre-hash": "58c62ea4495eb8aaf96ec62854901969",
+    "Hash": "692322ee9960e1063e35467874ae6092",
+    "utype:": "PC",
+    "Date/Time": "18-03-2024,22:29:38"
+}{
+    "ID": "33",
+    "Pre-hash": "692322ee9960e1063e35467874ae6092",
+    "Hash": "1f1a250bedfb6928dbf5c3b68249a186",
+    "utype:": "PC",
+    "Date/Time": "18-03-2024,22:30:28"
+}{
+    "ID": "34",
+    "Pre-hash": "1f1a250bedfb6928dbf5c3b68249a186",
+    "Hash": "5c3df5e5358b168ca09c9d139375e32b",
+    "utype:": "PC",
+    "Date/Time": "18-03-2024,22:37:37"
+}{
+    "ID": "35",
+    "Pre-hash": "5c3df5e5358b168ca09c9d139375e32b",
+    "Hash": "5aa9db84cc55e601d70215743d7850ad",
+    "utype:": "PC",
+    "Date/Time": "18-03-2024,22:39:55"
+}{
+    "ID": "36",
+    "Pre-hash": "5aa9db84cc55e601d70215743d7850ad",
+    "Hash": "5bbddb02aa640047413a1ac36ab3c39a",
+    "utype:": "PC",
+    "Date/Time": "18-03-2024,22:40:25"
+}{
+    "ID": "37",
+    "Pre-hash": "5bbddb02aa640047413a1ac36ab3c39a",
+    "Hash": "a1afc12e131a2d73301a82960f877e69",
+    "utype:": "PC",
+    "Date/Time": "18-03-2024,22:41:18"
+}{
+    "ID": "38",
+    "Pre-hash": "a1afc12e131a2d73301a82960f877e69",
+    "Hash": "ad4d2c4be2c930b7ef4fab75e387ce12",
+    "utype:": "PC",
+    "Date/Time": "18-03-2024,22:41:25"
+}{
+    "ID": "39",
+    "Pre-hash": "ad4d2c4be2c930b7ef4fab75e387ce12",
+    "Hash": "26f9eb0baa353293855368f8e5fbcad7",
+    "utype:": "MC",
+    "Date/Time": "24-03-2024,11:51:49"
+}{
+    "ID": "40",
+    "Pre-hash": "26f9eb0baa353293855368f8e5fbcad7",
+    "Hash": "bec1a014c6e7a1f06892cea40b84965f",
+    "utype:": "PC",
+    "Date/Time": "24-03-2024,12:01:20"
+}{
+    "ID": "41",
+    "Pre-hash": "bec1a014c6e7a1f06892cea40b84965f",
+    "Hash": "6167a22fd3c7fddfb7edfe28bfcbe0c6",
+    "utype:": "PC",
+    "Date/Time": "24-03-2024,12:05:47"
+}{
+    "ID": "42",
+    "Pre-hash": "6167a22fd3c7fddfb7edfe28bfcbe0c6",
+    "Hash": "96072b21fb78df8ab48a6231b8e56965",
+    "utype:": "PC",
+    "Date/Time": "24-03-2024,12:06:36"
+}{
+    "ID": "43",
+    "Pre-hash": "96072b21fb78df8ab48a6231b8e56965",
+    "Hash": "4966eab95449a14e8db1fa6fc46abd61",
+    "utype:": "PC",
+    "Date/Time": "24-03-2024,12:11:43"
+}{
+    "ID": "44",
+    "Pre-hash": "4966eab95449a14e8db1fa6fc46abd61",
+    "Hash": "c9588ce44bb63daff13aac20e13ead15",
+    "utype:": "PC",
+    "Date/Time": "24-03-2024,12:19:24"
+}{
+    "ID": "45",
+    "Pre-hash": "c9588ce44bb63daff13aac20e13ead15",
+    "Hash": "3fb27ffb1d3f9667569079a77dd889a9",
+    "utype:": "PC",
+    "Date/Time": "24-03-2024,12:20:37"
+}{
+    "ID": "46",
+    "Pre-hash": "3fb27ffb1d3f9667569079a77dd889a9",
+    "Hash": "eb991dd415307a0caf1592a5ebc74de5",
+    "utype:": "PC",
+    "Date/Time": "24-03-2024,12:20:56"
+}{
+    "ID": "47",
+    "Pre-hash": "eb991dd415307a0caf1592a5ebc74de5",
+    "Hash": "d1dd3692ef5c6fdf9673be545ca51c1d",
+    "utype:": "PC",
+    "Date/Time": "11-04-2024,14:31:02"
+}{
+    "ID": "48",
+    "Pre-hash": "d1dd3692ef5c6fdf9673be545ca51c1d",
+    "Hash": "4a81d3a80f590dfcfb65843e62ff22ff",
+    "utype:": "PC",
+    "Date/Time": "11-04-2024,14:31:59"
+}{
+    "ID": "49",
+    "Pre-hash": "4a81d3a80f590dfcfb65843e62ff22ff",
+    "Hash": "6aa49dff129b887ea7cf59beaf7eb1c6",
+    "utype:": "PC",
+    "Date/Time": "11-04-2024,14:38:32"
+}{
+    "ID": "50",
+    "Pre-hash": "6aa49dff129b887ea7cf59beaf7eb1c6",
+    "Hash": "fec0e5595661f9e20cb8f0c488f45ce8",
+    "utype:": "PC",
+    "Date/Time": "11-04-2024,14:41:08"
+}{
+    "ID": "51",
+    "Pre-hash": "fec0e5595661f9e20cb8f0c488f45ce8",
+    "Hash": "a85f603e0a33208ebe4dcafcbb83b296",
+    "utype:": "PC",
+    "Date/Time": "11-04-2024,14:56:06"
+}{
+    "ID": "52",
+    "Pre-hash": "a85f603e0a33208ebe4dcafcbb83b296",
+    "Hash": "350eed36b43716bd04a22f28c6b2d5fb",
+    "utype:": "PC",
+    "Date/Time": "11-04-2024,15:30:00"
+}{
+    "ID": "53",
+    "Pre-hash": "350eed36b43716bd04a22f28c6b2d5fb",
+    "Hash": "06a437e90b0b46df2bc712897963dd80",
+    "utype:": "PC",
+    "Date/Time": "11-04-2024,15:32:46"
+}{
+    "ID": "54",
+    "Pre-hash": "06a437e90b0b46df2bc712897963dd80",
+    "Hash": "ed5e1618c2602ac85136498892bc6390",
+    "utype:": "PC",
+    "Date/Time": "11-04-2024,15:34:40"
+}{
+    "ID": "55",
+    "Pre-hash": "ed5e1618c2602ac85136498892bc6390",
+    "Hash": "a935f44b5d9606316aef52c452687abb",
+    "utype:": "PC",
+    "Date/Time": "14-04-2024,07:33:06"
+}{
+    "ID": "56",
+    "Pre-hash": "a935f44b5d9606316aef52c452687abb",
+    "Hash": "7a4c1bb21cfbcb638312c54e2cbe98f3",
+    "utype:": "PC",
+    "Date/Time": "14-04-2024,07:38:14"
+}{
+    "ID": "57",
+    "Pre-hash": "7a4c1bb21cfbcb638312c54e2cbe98f3",
+    "Hash": "2e111637d1c96be0a8a5a0b7f2ba2d2f",
+    "utype:": "PC",
+    "Date/Time": "14-04-2024,07:41:26"
+}{
+    "ID": "58",
+    "Pre-hash": "2e111637d1c96be0a8a5a0b7f2ba2d2f",
+    "Hash": "f7a929a7d6966102acf8f3d262b3b16e",
+    "utype:": "PC",
+    "Date/Time": "14-04-2024,10:42:44"
+}{
+    "ID": "59",
+    "Pre-hash": "f7a929a7d6966102acf8f3d262b3b16e",
+    "Hash": "16769a2029270dce34b957a521a340e4",
+    "utype:": "PC",
+    "Date/Time": "14-04-2024,10:44:43"
+}{
+    "ID": "60",
+    "Pre-hash": "16769a2029270dce34b957a521a340e4",
+    "Hash": "473220706add6b9c187c56dd2253025e",
+    "utype:": "PC",
+    "Date/Time": "14-04-2024,10:45:18"
+}{
+    "ID": "61",
+    "Pre-hash": "473220706add6b9c187c56dd2253025e",
+    "Hash": "f4c86f858ab7f1a7bc2d1fc5bfef44ca",
+    "utype:": "PC",
+    "Date/Time": "14-04-2024,10:47:25"
+}
